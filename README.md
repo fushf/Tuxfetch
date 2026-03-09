@@ -3,8 +3,7 @@ A simple neofetch-like system info script for Linux.
 
 ## Usage
 \```sh
-chmod +x tuxfetch.sh
-./tuxfetch.sh
+chmod +x ./tuxfetch.sh
 \```
 
 ## Requirements
