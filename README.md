@@ -5,9 +5,6 @@ A simple neofetch-like system info script for Linux.
 \```sh
 chmod +x tuxfetch.sh
 ./tuxfetch.sh
-
-sudo cp tuxfetch.sh /usr/local/bin/tuxfetch
-sudo chmod +x /usr/local/bin/tuxfetch
 \```
 
 ## Requirements
